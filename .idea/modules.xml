@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HTML-CSS/HTML-CSS.iml" filepath="$PROJECT_DIR$/HTML-CSS/HTML-CSS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JS-Ajax/JS-Ajax.iml" filepath="$PROJECT_DIR$/JS-Ajax/JS-Ajax.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Web.iml" filepath="$PROJECT_DIR$/Java Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringWebdemo/SpringWebdemo.iml" filepath="$PROJECT_DIR$/SpringWebdemo/SpringWebdemo.iml" />
     </modules>
   </component>
 </project>

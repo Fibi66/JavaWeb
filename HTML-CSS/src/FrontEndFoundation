@@ -1,3 +1,22 @@
+web 标准也称网页标准，大部分由W3C（World wide web consortium）负责制订
+
+三个部分组成：
+1. HTML:负责网页的结构（页面元素和内容）
+2. CSS: 负责网页的表现 （外观、位置、颜色、大小）
+3. JavaScript: 负责网页的行为（交互效果）
 
 
-changed
+HTML 快速入门：（可以用大小写，也可以用单引号）
+<html>
+
+    <head>
+    <title> 用来存放给浏览器看的信息，比如CSS样式。
+    </head>
+
+    <body>
+           用来存放给客户看的信息，比如说字体，图片，视频
+           <h1> Hello World</h1>
+           <img src ="world.png">
+    </body>
+
+</html>
